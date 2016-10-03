@@ -3,8 +3,11 @@ Requirements:
 
 How to start:
 	1. Open command-line and navigate to the folder of the project
-	2. Type command "node server.js"
-	3. If server started successfully in command-line will be message "Server is running: http://localhost:3000/"
+	2. In root folder type command "npm install"
+	3. Navigate to folder /assets
+	4. Type command "bower install"
+	5. Type command "node server.js"
+	6. If server started successfully in command-line will be message "Server is running: http://localhost:3000/"
 
 How to use:
 The main screen separated on three parts:
