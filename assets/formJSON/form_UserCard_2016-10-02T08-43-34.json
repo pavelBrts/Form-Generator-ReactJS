@@ -1,0 +1,1 @@
+{"date":"2016-10-02T08-43-34","dateShort":"2016-10-02","form":[{"type":"input","inputValue":"","label":"FirstName"},{"type":"input","inputValue":"","label":"Second Name"},{"type":"input","inputValue":"","label":"email"},{"type":"checkbox","checkboxValue":true,"checkboxLabel":"Agree with rules"}],"name":"UserCard"}
