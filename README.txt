@@ -21,4 +21,4 @@ If you chose form from the "List of Form" it will appear at "Form Template". At 
 Restriction:
 Forms don't support a few inputs/checkboxes with the same labels.
 
-For implementation I spent 10 hr. For the back-end logic 5hr. and for front-end 5hr. (it's my first experience with ReactJS).
+
